@@ -1,0 +1,1 @@
+I heve learnt various tags such as <p>,<ul>,<ol>,<li>,<strong>,<h1-h6>,<em>, <a>,<img> etc
